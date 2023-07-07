@@ -1,2 +1,2 @@
 # voting-system
-A Terminal app for Voting system (with Python)
+A Console app for Voting system (with Python)
